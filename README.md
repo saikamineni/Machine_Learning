@@ -1,3 +1,3 @@
 # Machine_Learning
 
-Machine learning course assignments.
+Machine learning course projects.
